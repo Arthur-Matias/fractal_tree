@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  border: 0;
+  padding: 0;
+
+}
+html, body{
+  height: 100vh;
+  width: 100vw;
+}
+#app{
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+#app canvas{
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.controls{
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
