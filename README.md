@@ -7,7 +7,7 @@
 
 ## About <a name = "about"></a>
 
-<img src="https://github.com/Arthur-Matias/fractal_tree/tree/main/fractal-tree.gif">
+<img src="https://github.com/Arthur-Matias/fractal_tree/blob/main/fractal-tree.gif?raw=true">
 
 ## Getting Started <a name = "getting_started"></a>
 
